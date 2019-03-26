@@ -1,9 +1,6 @@
-
-
 package htl.huebl.consumerproducerpassword;
 
-
-public class PasswordProducer implements Runnable{
+public class PasswordProducer implements Runnable {
 
     @Override
     public void run() {
@@ -11,3 +8,4 @@ public class PasswordProducer implements Runnable{
     }
 
 }
+        
